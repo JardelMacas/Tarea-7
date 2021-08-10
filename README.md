@@ -27,6 +27,7 @@ Link del Video: https://youtu.be/S-rheZN-I8Y
 **5. CONCLUSIONES**
 
 
+
 **6.BIBLIOGRAFÍA**
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
