@@ -69,12 +69,15 @@ c . ¿Cuál es la corriente en t = 10 s?
 
 
 **14-2 Transitorio de corriente creciente**
-1 . a. ¿A qué se parece un inductor que no conduce corriente en el instante que
+
+1 a. ¿A qué se parece un inductor que no conduce corriente en el instante que
 se acciona el interruptor?
+b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente
+después de que el interruptor se cierra.
 
-3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
+3 Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
 
-5. El interruptor de la figura 14-39 está cerrado en t=0 s.
+5 El interruptor de la figura 14-39 está cerrado en t=0 s.
 a. ¿Cuál es la constante de tiempo del circuito?
 b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?
 c. Determine las ecuaciones para iL y vL.
@@ -82,9 +85,9 @@ d. Calcule los valores para iL y vL a intervalos de una constante de tiempo
 desde t=0 hasta 5t.
 e. Grafique iL y vL. Marque los ejes en t y en segundos.
 
-7. Repita el problema 5 para el circuito de la figura 14-41 con L=4 H.
+7 Repita el problema 5 para el circuito de la figura 14-41 con L=4 H.
 
-9. Cierre el interruptor en t=0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t=3.4 ms.
+9 Cierre el interruptor en t=0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t=3.4 ms.
 
 11 . Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
 
