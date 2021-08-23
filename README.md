@@ -20,22 +20,28 @@ Objetivos Especificos
 
 1 Si el flujo que enlaza una bobina de 75 vueltas (figura 13-29) cambia a la tasa
 de 3 Wb/s, ¿cuál es el voltaje en la bobina?
+![Screenshot_20210823-174450_Drive](https://user-images.githubusercontent.com/86451564/130528952-afc54460-9162-4e52-9ce1-96e183d26272.jpg)
 
 3 El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina.
 ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0.01 s?
+![Screenshot_20210823-174639_Drive](https://user-images.githubusercontent.com/86451564/130529032-15fe1198-81f5-4e9b-bb73-406e077b7aa6.jpg)
 
 5 La corriente en un inductor de 75 mH (figura 13-30) cambia uniformemente
 por 200uA en 0.1 ms. ¿Cuál es el voltaje en él?
+![Screenshot_20210823-174734_Drive](https://user-images.githubusercontent.com/86451564/130529104-99851f95-f51f-4cb0-86af-4ba7e10abc0c.jpg)
 
 7 El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5
 amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará para
 que la corriente cambie de 3 a 5 amperes?
+![Screenshot_20210823-174828_Drive](https://user-images.githubusercontent.com/86451564/130529169-dcd4460e-fba9-4559-8b30-062dc9ed2df3.jpg)
 
 9 Calcule la inductancia de la bobina de núcleo de aire de la figura 13-31, si l=200cm N=200 vueltas y d=2cm.
+![Screenshot_20210823-174916_Drive](https://user-images.githubusercontent.com/86451564/130529249-a26e2ca5-81fd-464f-aeff-485a12f1372b.jpg)
 
 11 El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI~Hala Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo
 es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a través de la bobina, el enlace de flujo es igual a Nø. Al igualar los dos valores del enlace de flujo y con las ideas del
 capítulo 12, demuestre que la inductancia de la bobina es
+![Screenshot_20210823-175034_Drive](https://user-images.githubusercontent.com/86451564/130529464-ccb47752-d9ec-4b7c-b5d3-975f6873a2c6.jpg)
 
 **13-4 Cálculo del voltaje inducido**
 
@@ -102,3 +108,4 @@ Link del Video: https://youtu.be/S-rheZN-I8Y
 **6.BIBLIOGRAFÍA**
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
+![Screenshot_20210823-175034_Drive](https://user-images.git
