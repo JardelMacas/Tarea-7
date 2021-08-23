@@ -108,4 +108,4 @@ Link del Video: https://youtu.be/S-rheZN-I8Y
 **6.BIBLIOGRAFÍA**
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
-![Screenshot_20210823-175034_Drive](https://user-images.git
+
