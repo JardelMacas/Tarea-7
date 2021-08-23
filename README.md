@@ -57,8 +57,11 @@ c . ¿Cuál es la corriente en t = 10 s?
 **14-2 Transitorio de corriente creciente**
 
 11 . Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
+![11](https://user-images.githubusercontent.com/84453441/130526581-19a9157b-4a0d-4a0b-953a-c79966783e14.png)
+![11-1](https://user-images.githubusercontent.com/84453441/130526598-b22c18b7-1a6c-4e9c-b962-69c8e7d4e4c8.png)
 
 13 . Para la figura 14-1(b), si vL = 40 e^-2000t V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?
+![13](https://user-images.githubusercontent.com/84453441/130526623-c5b36d08-e61b-4e39-aae1-411fa551f729.png)
 
 **14-4Transitorios desenergizantes**
 
@@ -71,10 +74,19 @@ b . Determine las ecuaciones para iL y vL.
 c . Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 T.
 
 d . Grafique iL y vL. Marque el eje en T y en segundos.
+![15](https://user-images.githubusercontent.com/84453441/130526678-ce1738e6-4d35-499d-bd28-fb2be4e215f5.png)
+![15-1](https://user-images.githubusercontent.com/84453441/130526697-ce6aff32-ea28-42c1-96c3-fe20413aa4fe.png)
+![155 (2)](https://user-images.githubusercontent.com/84453441/130526729-b46c7b48-80e8-4fe3-accc-456b549f0902.png)
+![155 (3)](https://user-images.githubusercontent.com/84453441/130526745-37e19727-463a-4225-85f5-3d79fa40d0df.png)
+![15-4](https://user-images.githubusercontent.com/84453441/130526757-82ca9f64-d799-4071-b4c5-f10291acf3d2.png)
 
 17 . Dado vL = -2700 Ve^-100t. Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms. 
+![17](https://user-images.githubusercontent.com/84453441/130526782-b3d090c5-7fd4-4f77-bb15-803fac5350d3.png)
 
 19 . Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.
+![19](https://user-images.githubusercontent.com/84453441/130526794-c4365f00-42ab-4c15-a5c1-b3eefe079222.png)
+![19-1](https://user-images.githubusercontent.com/84453441/130526807-f8bc1ee0-8303-48f3-9d37-bcd628ef2157.png)
+![19-2](https://user-images.githubusercontent.com/84453441/130526818-f6840f5d-e6eb-4c3e-a20d-424850ea89b3.png)
 
 
 
