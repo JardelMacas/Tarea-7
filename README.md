@@ -5,9 +5,13 @@
 
 Objetivos Generales
 
+*  Examinar las aplicaciones de los campos magneticos en los circuitos electricos.
+
 Objetivos Especificos
 
-
+*  Identificar  las diferentes disposiciones de los inductores y su principio de accion.
+*  Definir un efecto de carga y descarga para circuitos RL.
+*  Analizar circuitos complejos RL  con procesos de carga y descarga.
 
 **2.MARCO TEORICO**
 
@@ -217,7 +221,9 @@ Link del Video: https://youtu.be/xjSDnW0Tp4M
 
 **5. CONCLUSIONES**
 
-
+*  El fenomeno de la autoinductancia relaciona a un devanada de alambre y una corriente que pasa por dicho alambra lo que genera un campo magnetico a su alrededor, este fenomeno tiene una serie de aplicaciones en los circuitos Electricos.
+*  En un circuito RC la corriente no varia de forma abrupta sino que su ascenso o descenso se define mediante transitorios, en cambio el voltaje se muestra por picos al entrar en cualquiera de dichos procesos.
+*  En un circuito complejo RC se debe primero reducir dicho circuito a su forma mas sencilla y analizarse con los efectos de carga conocidos para la inductancia, para reducir este circuito se pueden aplicar teoremas vistos anteriormente como Thevenin, Norton , Teorema de Superposicion,etc.
 
 **6.BIBLIOGRAFÍA**
 
