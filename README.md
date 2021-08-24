@@ -150,7 +150,8 @@ d . Grafique iL y vL. Marque el eje en T y en segundos.
 **4.VIDEO**
 
 
-Link del Video: https://youtu.be/xjSDnW0Tp4M
+Link del Video: https://youtu.be/xjSDnW0Tp4M 
+
 [![Circuitos Eléctricos || Ejercicios Resueltos || Libro de Allan Robbins || Capítulos 13 y 14](https://img.youtube.com/vi/xjSDnW0Tp4M/0.jpg)](https://youtu.be/xjSDnW0Tp4M)
 
 **5. CONCLUSIONES**
