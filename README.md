@@ -46,6 +46,7 @@ capítulo 12, demuestre que la inductancia de la bobina es
 **13-4 Cálculo del voltaje inducido**
 
 13 . La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de 100 volts, ¿qué valor tiene L?
+![13](https://user-images.githubusercontent.com/84453441/130523313-ace5bb11-e1a4-483e-ab57-71afa07159e8.png)
 
 15 . La figura 13-36 muestra la gráfica del voltaje en una inductancia. Los cambios en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s. 
 
