@@ -10,6 +10,7 @@ Objetivos Especificos
 
 
 **2.MARCO TEORICO**
+
 **Capitulo 13**
 ![resumencap13](https://user-images.githubusercontent.com/84357979/130618113-b288476a-24e5-400c-abbf-821d3b448d7b.png)
 
