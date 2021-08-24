@@ -87,8 +87,10 @@ c . ¿Cuál es la corriente en t = 10 s?
 se acciona el interruptor?
 b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente
 después de que el interruptor se cierra.
+![Screenshot_20210824-011331_Drive](https://user-images.githubusercontent.com/86451564/130565644-81becc2a-2bea-4222-84be-b102623e15df.jpg)
 
 3 Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
+![Screenshot_20210824-011503_Drive](https://user-images.githubusercontent.com/86451564/130565730-c91a457d-34e1-4be8-bbca-11c1579963a4.jpg)
 
 5 El interruptor de la figura 14-39 está cerrado en t=0 s.
 a. ¿Cuál es la constante de tiempo del circuito?
@@ -97,10 +99,13 @@ c. Determine las ecuaciones para iL y vL.
 d. Calcule los valores para iL y vL a intervalos de una constante de tiempo
 desde t=0 hasta 5t.
 e. Grafique iL y vL. Marque los ejes en t y en segundos.
+![Screenshot_20210824-011556_Drive](https://user-images.githubusercontent.com/86451564/130565824-c539f46e-0af3-4d5f-82c7-e170e2c8b9df.jpg)
 
 7 Repita el problema 5 para el circuito de la figura 14-41 con L=4 H.
+![Screenshot_20210824-011640_Drive](https://user-images.githubusercontent.com/86451564/130565956-750114e2-de2e-45d8-a142-ae3b101974b7.jpg)
 
 9 Cierre el interruptor en t=0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t=3.4 ms.
+![Screenshot_20210824-011658_Drive](https://user-images.githubusercontent.com/86451564/130566008-6f7d5c33-a475-41b3-833f-70de2803cf51.jpg)
 
 11 . Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
 ![11](https://user-images.githubusercontent.com/84453441/130526581-19a9157b-4a0d-4a0b-953a-c79966783e14.png)
