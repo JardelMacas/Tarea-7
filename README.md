@@ -228,6 +228,14 @@ b. ¿Cuánto es iL y Vl en t= 25 ms?
 
 ![image](https://user-images.githubusercontent.com/84357979/130626438-2cab3d0c-9b93-4f3e-a45c-d4fcadd4ba08.png)
 
+![trabajo15](https://user-images.githubusercontent.com/84357979/130628524-0f8b7320-5e0c-4d0f-8ffa-cf3b0345c6b1.png)
+
+![trabajo16](https://user-images.githubusercontent.com/84357979/130628607-15a15f59-6701-42b0-a9a4-578a2858c5b8.png)
+
+27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductor estan conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms despues de que el interruptor se ha cerrado.
+
+![trabajo17](https://user-images.githubusercontent.com/84357979/130629080-9c5283b9-4117-42c3-a9af-dba60fe74d2c.png)
+
 
 
 
