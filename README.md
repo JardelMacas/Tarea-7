@@ -10,8 +10,10 @@ Objetivos Especificos
 
 
 **2.MARCO TEORICO**
+**Capitulo 13**
+![resumencap13](https://user-images.githubusercontent.com/84357979/130618113-b288476a-24e5-400c-abbf-821d3b448d7b.png)
 
-**CAPITULO 14**
+** CAPITULO 14 **
 ![Resumen_Cap_14](https://user-images.githubusercontent.com/84453441/130533056-735cfab4-96bd-4123-b84d-9cf7b174f7de.png)
 
 **3.EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS**
