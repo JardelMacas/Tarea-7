@@ -236,6 +236,7 @@ b. ¿Cuánto es iL y Vl en t= 25 ms?
 
 ![trabajo17](https://user-images.githubusercontent.com/84357979/130629080-9c5283b9-4117-42c3-a9af-dba60fe74d2c.png)
 
+![trabajo18](https://user-images.githubusercontent.com/84357979/130631142-3d6d5b7c-4b1a-418c-a121-3a87c67f7ed8.png)
 
 
 
