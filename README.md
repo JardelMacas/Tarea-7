@@ -11,10 +11,10 @@ Objetivos Especificos
 
 **2.MARCO TEORICO**
 
-**CAPITULO 13**
+**Capitulo 13**
 ![resumencap13](https://user-images.githubusercontent.com/84357979/130618113-b288476a-24e5-400c-abbf-821d3b448d7b.png)
 
-**CAPITULO 14**
+** CAPITULO 14 **
 ![Resumen_Cap_14](https://user-images.githubusercontent.com/84453441/130533056-735cfab4-96bd-4123-b84d-9cf7b174f7de.png)
 
 **3.EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS**
@@ -81,10 +81,70 @@ c . ¿Cuál es la corriente en t = 10 s?
 23 . Una inductancia de 30 uH está conectada en serie con una inductancia de 60 uH, y una inductancia de 10 uH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
 ![23](https://user-images.githubusercontent.com/84453441/130523626-518664eb-24fb-4b7f-b238-f29c5f6b45a6.png)
 
+25. Para los circuitos de la figura 13-40, determine L3 y L4
+a)
+
+![image](https://user-images.githubusercontent.com/84357979/130619782-3bbe3764-f114-4610-a69c-115ed7833659.png)
+
+![trabajo1](https://user-images.githubusercontent.com/84357979/130620734-4580a968-a2ec-43c2-ac73-54b7947a86f8.png)
+
+![trabajo2](https://user-images.githubusercontent.com/84357979/130620829-e26c54c2-b29e-4501-8224-38ed72db0e70.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/84357979/130621243-6373fe0b-7a8b-46a4-b63e-5ae4c72f26b2.png)
+
+![trabajo3](https://user-images.githubusercontent.com/84357979/130621337-eac3f7e9-6b6b-4ab6-8ec3-778812940e5d.png)
+
+![trabajo4](https://user-images.githubusercontent.com/84357979/130621505-30e56159-29c4-4ede-8c4a-5ee7b4a0e54f.png)
+
+27.  Dos inductancias de 6 y 4 H están conectadas en paralelo. Despues de que se agrega una tercera inductancia, LT= 4H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
+
+![trabajo5](https://user-images.githubusercontent.com/84357979/130621626-faaa23d0-1a1e-4d15-8992-8cd7b08fd456.png)
+
+29. Inductancias de 8,12 y 1.2 H están conectadas en un circuito. Si LT=6 H, ¿Cómo están conectados los Inductores?
+
+![trabajo6](https://user-images.githubusercontent.com/84357979/130621856-3cce5203-3a79-4fda-89a0-4b440333e084.png)
+
+31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple
+
+a)
+
+![trabajo7](https://user-images.githubusercontent.com/84357979/130622035-910a0aaa-17aa-491a-b41c-0e60681894a3.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/84357979/130622127-416ff768-0502-4139-873c-9c5471f551bb.png)
+
+![trabajo8](https://user-images.githubusercontent.com/84357979/130622409-55ed454a-74f1-4525-a965-cdf5b63afcfb.png)
+
+C)
+
+![image](https://user-images.githubusercontent.com/84357979/130622452-d7444860-6d21-4eb9-9a7e-ef018810a634.png)
+
+![trabajo9](https://user-images.githubusercontent.com/84357979/130622552-d3006239-28d6-4c8d-ace2-1495fba416bf.png)
+
+D)
+
+![image](https://user-images.githubusercontent.com/84357979/130622586-5f8cf1b4-8955-4796-934d-b3a984e8e4ae.png)
+
+![trabajo10](https://user-images.githubusercontent.com/84357979/130622718-d07fa720-e8f8-4456-8146-31b027e76506.png)
+
+33) Encuentre la energía almacenada en el inductor de la figura 13-44.
+
+![image](https://user-images.githubusercontent.com/84357979/130622782-4616dac1-3b34-48a3-926b-d165014c950e.png)
+
+![trabajo11](https://user-images.githubusercontent.com/84357979/130622861-942fcaba-14d2-4733-8397-7e833263d0fd.png)
+
+35) En la figura 13-46, un medidor de inductancia mide 7 H, ¿Cuál es la falla probable?
+
+![image](https://user-images.githubusercontent.com/84357979/130622913-c23e68d7-d79c-4687-8965-73869b3c9dad.png)
+
+![trabajo12](https://user-images.githubusercontent.com/84357979/130623022-1b1c03a7-a8ce-4672-a560-3f507c150130.png)
 
 
 
-**14-2 Transitorio de corriente creciente**
+** 14-2 Transitorio de corriente creciente **
 
 1 a. ¿A qué se parece un inductor que no conduce corriente en el instante que
 se acciona el interruptor?
