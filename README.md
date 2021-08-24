@@ -81,7 +81,8 @@ c . ¿Cuál es la corriente en t = 10 s?
 23 . Una inductancia de 30 uH está conectada en serie con una inductancia de 60 uH, y una inductancia de 10 uH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
 ![23](https://user-images.githubusercontent.com/84453441/130523626-518664eb-24fb-4b7f-b238-f29c5f6b45a6.png)
 
-25. Para los circuitos de la figura 13-40, determine L3 y L4
+25. Para los circuitos de la figura 13-40, determine L3yL4
+
 a)
 
 ![image](https://user-images.githubusercontent.com/84357979/130619782-3bbe3764-f114-4610-a69c-115ed7833659.png)
