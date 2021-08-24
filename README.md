@@ -90,8 +90,6 @@ e. Grafique iL y vL. Marque los ejes en t y en segundos.
 9 Cierre el interruptor en t=0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t=3.4 ms.
 
 11 . Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
-![11](https://user-images.githubusercontent.com/84453441/130534376-c2dd8993-d0f9-4a27-95a9-2ef1de893d5b.png)
-![11-1](https://user-images.githubusercontent.com/84453441/130534392-dd4dbe0f-6259-4534-9e76-840af79fc25d.png)
 
 13 . Para la figura 14-1(b), si vL = 40 e^-2000t V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?
 
