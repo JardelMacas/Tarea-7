@@ -208,6 +208,25 @@ d . Grafique iL y vL. Marque el eje en T y en segundos.
 ![19-2](https://user-images.githubusercontent.com/84453441/130526818-f6840f5d-e6eb-4c3e-a20d-424850ea89b3.png)
 
 
+21) Para la bobina de la figura 14-45 Rl=1.7Ω  y L=150 mH . Determine la corriente de la bobina en t=18.4 ms
+
+![image](https://user-images.githubusercontent.com/84357979/130625571-f063332a-9a55-452a-a966-2ff5e1269c96.png)
+
+![trabajo13](https://user-images.githubusercontent.com/84357979/130625698-05822c64-4bcb-4bb1-8d56-9416d3256a21.png)
+
+23) Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.
+a. Determine la constante de tiempo del circuito desenergizado.
+b. Determine las ecuaciones iL y vL
+c. Encuentre el voltaje en el inductor y la corriente a través de él en t= 17.8 us, use las ecuaciones que se determinaron antes.
+
+![image](https://user-images.githubusercontent.com/84357979/130626040-a3b1ba8d-440d-4847-84d7-f6c14bdeaf9b.png)
+
+![trabajo14](https://user-images.githubusercontent.com/84357979/130626352-606bddff-1d8c-4aee-9b60-c9e40cab6396.png)
+
+25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47.
+b. ¿Cuánto es iL y Vl en t= 25 ms?
+
+![image](https://user-images.githubusercontent.com/84357979/130626438-2cab3d0c-9b93-4f3e-a45c-d4fcadd4ba08.png)
 
 
 
