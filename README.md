@@ -228,7 +228,16 @@ b. ¿Cuánto es iL y Vl en t= 25 ms?
 
 ![image](https://user-images.githubusercontent.com/84357979/130626438-2cab3d0c-9b93-4f3e-a45c-d4fcadd4ba08.png)
 
-![trabajo15](https://user-images.githubusercontent.com/84357979/130628524-0f8b7320-5e0c-4d0f-8ffa-cf3b0345c6b1.png)
+Rediseñando el Circuito a una forma conocida:
+
+![trabajo22](https://user-images.githubusercontent.com/84357979/130806837-3f0697f8-efeb-413d-abca-e99be9b6916e.png)
+
+Analizando el circuito Para sacar su circuito equivalente de Thevenin:
+
+![trabajo15](https://user-images.githubusercontent.com/84357979/130628524-0f8b7320-5e0c-4d0f-8ffa-cf3b0345c6b1.png
+
+![trabajo23](https://user-images.githubusercontent.com/84357979/130806932-c8c3c6ae-fd2c-4083-a042-7a2e2adf54d1.png)
+
 
 ![trabajo16](https://user-images.githubusercontent.com/84357979/130628607-15a15f59-6701-42b0-a9a4-578a2858c5b8.png)
 
