@@ -251,7 +251,7 @@ Diseñando el circuito segun especificaciones:
 
 Transformando el circuito complejo a su equivalente de Thevenin:
 
-![image](https://user-images.githubusercontent.com/84357979/130805485-c81c2620-a543-42dd-947f-62ccc0756759.png
+![image](https://user-images.githubusercontent.com/84357979/130805485-c81c2620-a543-42dd-947f-62ccc0756759.png)
 
 
 ![trabajo21](https://user-images.githubusercontent.com/84357979/130805596-a97eb820-4a0a-4cd1-8bdf-6126e62150ec.png)
